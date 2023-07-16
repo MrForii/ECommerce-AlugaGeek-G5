@@ -20,7 +20,7 @@ const loadInfo = async () => {
     const description = document.querySelector("#description");
 
     try {
-        const response = await fetch(`http://localhost:3000/products/${id}`);
+        const response = await fetch(`https://64b461990efb99d86268ff0c.mockapi.io/products/${id}`);
         if (!response.ok) {
             throw new Error("Error al cargar el producto");
         }
