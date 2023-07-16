@@ -1,0 +1,80 @@
+@import "../css/style.css";
+header nav.container .rigth-side .btn-header {
+  visibility: hidden;
+}
+
+section.login {
+  padding: 1rem 0;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section.login .container {
+  width: 30%;
+  min-width: 400px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  box-shadow: 0 4px 18px 0 rgba(0, 0, 0, 0.25);
+}
+section.login .container form {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+section.login .container form .input-group {
+  position: relative;
+  width: 100%;
+}
+section.login .container form .input {
+  width: 100%;
+  border: solid 1.5px #757575;
+  border-radius: 1rem;
+  background: none;
+  padding: 1rem;
+  font-size: 1rem;
+  color: var(--color-title);
+  transition: border 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+section.login .container form .user-label {
+  position: absolute;
+  left: 15px;
+  color: var(--color-secondary);
+  pointer-events: none;
+  transform: translateY(1rem);
+  transition: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+section.login .container form .input:focus, section.login .container form input:valid {
+  outline: none;
+  border: 1.5px solid #1a73e8;
+}
+section.login .container form .input:focus ~ label, section.login .container form input:valid ~ label {
+  transform: translateY(-50%) scale(0.8);
+  background-color: var(--color-footer);
+  padding: 0 0.2em;
+  color: #2196f3;
+}
+
+/* Media Queries */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  section.login .container {
+    width: 60%;
+    min-width: 300px;
+  }
+}
+@media screen and (min-width: 360px) and (max-width: 768px) {
+  section.login .container {
+    width: 85%;
+    max-width: 500px;
+    min-width: 350px;
+  }
+  section.login .container form {
+    width: 85%;
+    max-width: 350px;
+  }
+}/*# sourceMappingURL=login-style.css.map */

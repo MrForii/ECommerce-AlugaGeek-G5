@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="../css/add-product-style.css">
+    <title>Agregar producto | TechShop</title>
+</head>
+<body>
+    <!-- Header -->
+
+    <header>
+        <nav class="container">
+            <a href="../index.html" class="logo">TechShop</a>
+            <div class="rigth-side">
+                <div class="group">
+                    <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><g><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path></g></svg>
+                    <input placeholder="Search" type="search" class="input">
+                </div>
+                <div class="btn-header" id="admin-menu" onclick="redirect(this.id)">
+                    <button>Menu Admin</button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Form add product -->
+
+    <section class="add-product">
+        <div class="container">
+            <form action="/" id="add-product">
+                <h2>Agregar producto</h2>
+                <div class="input-group">
+                    <input required="" type="text" name="url-image" autocomplete="off" class="input" id="url-image">
+                    <label class="user-label">Url de la imagen</label>
+                </div>
+                <div class="input-group">
+                    <input required="" type="text" name="category" autocomplete="off" class="input" id="category">
+                    <label class="user-label">Categoria</label>
+                </div>
+                <div class="input-group">
+                    <input required="" type="text" name="name-product" autocomplete="off" class="input" id="name-product">
+                    <label class="user-label">Nombre del producto</label>
+                </div>
+                <div class="input-group">
+                    <input required="" type="text" name="price-product" autocomplete="off" class="input" id="price-product">
+                    <label class="user-label">Precio del producto</label>
+                </div>
+                <div class="input-group">
+                    <textarea name="description" id="description" cols="30" rows="4" class="input" aria-autocomplete="none" required=""></textarea>
+                    <label class="user-label">Descripcion del producto</label>
+                </div>
+                <button>Agregar producto</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Contact -->
+
+    <section class="contact">
+        <div class="container">
+            <div class="content">
+                <div class="contact-links">
+                    <div class="logo">
+                        <a href="#">TechShop</a>
+                    </div>
+                    <div class="links">
+                        <ul>
+                            <li><a href="#">Quienes somos</a></li>
+                            <li><a href="#">Politicas de privacidad</a></li>
+                            <li><a href="#">Programa de fidelidad</a></li>
+                            <li><a href="#">Nuestras tiendas</a></li>
+                            <li><a href="#">Quiero ser franquiciado</a></li>
+                            <li><a href="#">Anuncie Aqui</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="form">
+                    <form action="#" id="contact-form">
+                        <h2>Contáctanos</h2>
+                        <div class="input-group">
+                            <input required="" type="text" name="text" autocomplete="off" class="input" id="contact-name">
+                            <label class="user-label">Nombre</label>
+                        </div>
+                        <div class="input-group">
+                            <textarea name="message" id="contact-message" cols="30" rows="4" class="input" aria-autocomplete="none" required=""></textarea>
+                            <label class="user-label">Mensaje</label>
+                        </div>
+                        <button>Enviar Mensaje</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+
+    <footer>
+        <div class="container">
+            <p>Copyright &copy; 2023 TechShop</p>
+        </div>
+    </footer>
+</body>
+<script type="module">
+    import { v4 as uuidv4 } from 'https://jspm.dev/uuid';
+</script>
+<script src="../controllers/redirect-buttons.controller.js"></script>
+<script type="module" src="../controllers/add-product.controller.js"></script>
+<script src="../controllers/form.controller.js"></script>
+</html>

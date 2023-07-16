@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "test@test.test",
+      "password": "123",
+      "id": "e330000b-cadd-4a35-911f-c08d8eb4520d"
+    },
+    {
+      "name": "cq",
+      "email": "cc@c.C",
+      "password": "c",
+      "id": "beb63de4-60e3-49a9-8c0d-fcb20430cb50"
+    },
+    {
+      "name": "1",
+      "email": "cesar@gmail.com",
+      "password": "123",
+      "id": "d336f49d-c9f2-49ff-91fe-804b38fe4694"
+    },
+    {
+      "name": "tati",
+      "email": "tatiana27ocean@gmail.com",
+      "password": "1234",
+      "id": "cdbd2176-5eed-4e5e-871b-8b9c02d74cb0"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Procesadores"
+    },
+    {
+      "name": "Graficas"
+    },
+    {
+      "name": "Teclados"
+    },
+    {
+      "name": "Monitores"
+    }
+  ],
+  "products": [
+    
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_659520-MLM51338788281_082022-O.webp",
+      "name": "Microprocesador Pc Amd Ryzen 5 4600g 8mb 3.7ghz Socket Am4",
+      "price": "$705.900",
+      "categorie": "Procesadores",
+      "description": "Clave en el rendimiento de tu computadora de escritorio, ya no tenés que pensar en cómo distribuir el tiempo y acciones porque ahora las tareas en simultáneo son posibles.AMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más. \n\n Núcleos: el corazón del procesador\n\n En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.\n\nMáxima potencia\n\nAl estar desbloqueado, podrás realizar overclocking y así aumentar la frecuencia de funcionamiento y optimizar el rendimiento de tu equipo. Personalizalo a tu gusto y disfrutá de tus videojuegos o hacé que la renderización de imágenes sea más ágil. ¡Descubrí el abanico de posibilidades que esta función te ofrece!",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_602530-MLA43003993713_082020-O.webp",
+      "name": "Intel Core i5 i5-10400F BX8070110400F",
+      "price": "$86.999",
+      "categorie": "Procesadores",
+      "description": "Mejora tu experiencia de juego con el Procesador gamer Intel Core i5-10400F, diseñado para brindarte un rendimiento óptimo en tus partidas. Con sus 6 núcleos y 12 hilos de CPU, este procesador te permitirá disfrutar de tus juegos favoritos sin interrupciones ni demoras. Gracias a su arquitectura x86-64 y su frecuencia máxima de reloj de 4.3 GHz, podrás ejecutar múltiples aplicaciones y juegos de manera fluida y eficiente. Además, su compatibilidad con memoria RAM DDR4 y su capacidad para soportar hasta 128 GB de memoria, te aseguran una experiencia de juego inigualable. La tecnología hyper-threading te brinda un rendimiento aún más rápido y eficiente en tus tareas diarias. Con una litografía de 14 nm y una potencia de diseño térmico de 65 W, este procesador es una opción ideal para aquellos que buscan un rendimiento excepcional sin sacrificar la eficiencia energética. No esperes más y lleva tu experiencia de juego al siguiente nivel con el Procesador gamer Intel Core i5-10400F.",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_894487-MLA53145808015_012023-O.webp",
+      "name": "Procesador gamer AMD Ryzen 7 5700X 100-100000926WOF de 8 núcleos y 4.6GHz",
+      "price": "$171.693",
+      "categorie": "Procesadores",
+      "description": "Clave en el rendimiento de tu computadora de escritorio, ya no tenés que pensar en cómo distribuir el tiempo y acciones porque ahora las tareas en simultáneo son posibles.\n\nAMD cuenta con un catálogo de productos que se adaptan a los requerimientos de todo tipo de usuarios: juegos en línea, edición a gran escala, contenido en múltiples plataformas y más.\n\nNúcleos: el corazón del procesador\n\nEn este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.\n\nMáxima potencia\n\nAl estar desbloqueado, podrás realizar overclocking y así aumentar la frecuencia de funcionamiento y optimizar el rendimiento de tu equipo. Personalizalo a tu gusto y disfrutá de tus videojuegos o hacé que la renderización de imágenes sea más ágil. ¡Descubrí el abanico de posibilidades que esta función te ofrece!",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_621372-MLA54898694492_042023-O.webp",
+      "name": "Procesador Intel Core i9-13900F BX8071513900F de 24 núcleos y 5.6GHz de frecuencia",
+      "price": "$530.768",
+      "categorie": "Procesadores",
+      "description": "Productividad y entretenimiento, todo disponible en tu computadora de escritorio. La superioridad tecnológica de INTEL es un beneficio para todo tipo de profesionales. Asegura el mejor rendimiento de las aplicaciones, de la transferencia de datos y la conexión con otros elementos tecnológicos.\n\nNúcleos: el corazón del procesador\n\nEn este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_939566-MLA53014935178_122022-O.webp",
+      "name": "Micro Procesador Intel Pentium Gold G7400 6mb 3.70 Ghz Socket 1700",
+      "price": "$70.490",
+      "categorie": "Procesadores",
+      "description": "La gama de procesadores Pentium de Intel proporciona CPU de excelente rendimiento, confiabilidad y asequibilidad para compradores orientados al valor.",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_876751-MLU70324802481_072023-O.webp",
+      "name": "Microprocesador Pc Intel Celeron G6900 4mb 3.4ghz Bx80715g6900",
+      "price": "$34.515",
+      "categorie": "Procesadores",
+      "description": "Las PCs Intel de nivel básico pueden ayudar a los usuarios a colaborar, crear, aprender y jugar como nunca antes.\n\nLos usuarios pueden disfrutar de las excelentes experiencias que querían con sus computadoras portátiles, chromebooks, convertibles o equipos de desktop, con las opciones de seguridad y conectividad para un estilo de vida moderno protegido.\n\nLos procesadores Intel Celeron están diseñados para brindar desempeño y valor confiables en las PCs y los dispositivos portátiles asequibles de nivel básico.",
+      "id": "6ae6f0b1-c194-4c7c-a08f-7b6460d3ff88"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_889601-MLA48656710627_122021-O.webp",
+      "name": "Nvidia Palit Dual GeForce GTX 16 Series GTX 1660 NE51660018J9-1161C - 6 GB",
+      "price": "$229.999",
+      "categorie": "Graficas",
+      "description": "Mejora tu experiencia de juego con la Placa de video Nvidia Palit Dual GeForce GTX 16 Series GTX 1660 NE51660018J9-1161C de 6GB. Esta potente tarjeta gráfica cuenta con 1408 núcleos y una frecuencia base del núcleo de 1530 MHz, que se puede aumentar hasta 1785 MHz, permitiéndote disfrutar de tus juegos favoritos con gráficos fluidos y de alta calidad.\n\nLa memoria GDDR5 de 6 GB y el bus de memoria de 192 bits garantizan un rendimiento excepcional y una rápida transferencia de datos. Además, la placa es compatible con DirectX y OpenGL, lo que asegura una amplia compatibilidad con los últimos juegos y aplicaciones.\n\nCon la capacidad de conectar hasta 3 monitores simultáneamente y una resolución máxima de 7680x4320, podrás sumergirte en una experiencia de juego envolvente y realista. La interfaz PCI-Express 3.0 facilita la instalación y garantiza una conexión estable con la placa madre.\n\nLa Placa de video Nvidia Palit Dual GeForce GTX 1660 cuenta con múltiples opciones de conectividad, incluyendo DL-DVI-D, HDMI 2.0b y DisplayPort 1.4a, lo que te permite conectar fácilmente tus dispositivos y disfrutar de una experiencia de juego sin interrupciones.\n\nTen en cuenta que esta tarjeta gráfica requiere una fuente de alimentación de 450 W para funcionar correctamente. No esperes más para llevar tu experiencia de juego al siguiente nivel con la Placa de video Nvidia Palit Dual GeForce GTX 1660."
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_679139-MLU52584390334_112022-O.webp",
+      "name": "AMD Asus TUF Gaming Radeon RX 6500 Series RX 6500 XT OC Edition - 4 GB",
+      "price": "$262.200",
+      "categorie": "Graficas",
+      "description": "Mejora tu experiencia de juego con la Placa de video AMD Asus TUF Gaming Radeon RX 6500 Series RX 6500 XT TUF-RX6500XT-04G-GAMING OC Edition 4GB. Esta potente tarjeta gráfica cuenta con 4 GB de memoria GDDR6 y una interfaz PCI-Express 4.0, lo que te permite disfrutar de tus juegos favoritos con gráficos impresionantes y un rendimiento fluido. Con una resolución máxima de 7680x4320, podrás sumergirte en mundos virtuales detallados y realistas. Además, su compatibilidad con DirectX y OpenGL garantiza una amplia gama de juegos y aplicaciones compatibles.\n\nLa serie TUF Gaming de Asus es conocida por su durabilidad y rendimiento confiable, y esta placa de video no es la excepción. Con 1024 núcleos y una frecuencia del núcleo de 2825 MHz en modo de juego y modo OC, tendrás la potencia necesaria para enfrentarte a los juegos más exigentes. La conectividad HDMI 2.1 y DisplayPort 1.4a te permite conectar hasta dos monitores, ampliando tus opciones de visualización y mejorando tu experiencia de juego.\n\nNo te preocupes por el consumo energético, ya que esta tarjeta gráfica tiene un requerimiento de 500 W, lo que la hace eficiente y adecuada para la mayoría de las configuraciones de PC. En resumen, la Placa de video AMD Asus TUF Gaming Radeon RX 6500 Series RX 6500 XT TUF-RX6500XT-04G-GAMING OC Edition 4GB es la elección perfecta para los gamers que buscan un rendimiento excepcional y una experiencia de juego inmersiva. No esperes más y lleva tu juego al siguiente nivel con esta increíble tarjeta gráfica."
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_615843-MLA48860244572_012022-O.webp",
+      "name": "Placa de video Nvidia PNY XLR8 Gaming GeForce RTX 30 Series RTX 3080 10GB",
+      "price": "$582.581",
+      "categorie": "Graficas",
+      "description": "Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. Es ideal para trabajar con aplicaciones gráficas ya que permite obtener imágenes más nítidas.\n\nNvidia es el fabricante líder de placas de video; su calidad asegura una experiencia positiva en el desarrollo del motor gráfico de tu computadora. Además, sus procesadores usan tecnología de punta para que puedas disfrutar de un producto veloz y duradero.\n\nVelocidad en cada lectura\n\nCuenta con 8704 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.\n\nCalidad de imagen\n\nCriterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará. La decodificación de los píxeles en tu pantalla te harán ver hasta los detalles más ínfimos en cada ilustración.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_612570-MLA48859978844_012022-O.webp",
+      "name": "Placa de video AMD ASRock Phantom Gaming D Radeon RX 6900 16GO OC Edition 16GB",
+      "price": "$465.409",
+      "categorie": "Graficas",
+      "description": "Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. Es ideal para trabajar con aplicaciones gráficas ya que permite obtener imágenes más nítidas.\n\nAMD es un fabricante estadounidense de placas de video, por su tecnología se ha destacado en crear procesadores de alta gama que permiten un excelente funcionamiento del motor gráfico de tu computadora.\n\nVelocidad en cada lectura\n\nCuenta con 5120 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.\n\nCalidad de imagen\n\nCriterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará. La decodificación de los píxeles en tu pantalla te harán ver hasta los detalles más ínfimos en cada ilustración."
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_897877-MLA54985645857_052023-O.webp",
+      "name": "Placa de video AMD Sapphire Nitro+ Radeon RX 7000 Series RX 7900 XTX 11322-01-40G 24GB",
+      "price": "$369.568",
+      "categorie": "Graficas",
+      "description": "Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. Es ideal para trabajar con aplicaciones gráficas ya que permite obtener imágenes más nítidas.\n\nAMD es un fabricante estadounidense de placas de video, por su tecnología se ha destacado en crear procesadores de alta gama que permiten un excelente funcionamiento del motor gráfico de tu computadora.\n\nVelocidad en cada lectura\n\nCuenta con 6144 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.\n\nCalidad de imagen\n\nCriterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará. La decodificación de los píxeles en tu pantalla te harán ver hasta los detalles más ínfimos en cada ilustración.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_852861-MLA54416835212_032023-O.webp",
+      "name": "Placa De Video Nvidia Asus Rog Strix Rtx 4080 16gb Pcreg",
+      "price": "$850.759",
+      "categorie": "Graficas",
+      "description": "Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. Es ideal para trabajar con aplicaciones gráficas ya que permite obtener imágenes más nítidas.\n\nAMD es un fabricante estadounidense de placas de video, por su tecnología se ha destacado en crear procesadores de alta gama que permiten un excelente funcionamiento del motor gráfico de tu computadora.\n\nVelocidad en cada lectura\n\nCuenta con 6144 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.\n\nCalidad de imagen\n\nCriterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará. La decodificación de los píxeles en tu pantalla te harán ver hasta los detalles más ínfimos en cada ilustración.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_817802-MLA52350652821_112022-O.webp",
+      "name": "Redragon Kumara K552 - Blanco - RGB - QWERTY - Español Latinoamérica - Outemu Red",
+      "price": "$25.499",
+      "categorie": "Teclados",
+      "description": "Eleva tu experiencia de juego al siguiente nivel con el teclado gamer Redragon Kumara K552 en color blanco. Diseñado especialmente para gamers, este teclado cuenta con switches Outemu Red que ofrecen una respuesta rápida y precisa en cada pulsación. Además, su diseño ergonómico te permitirá disfrutar de largas sesiones de juego sin fatiga. La retroiluminación RGB añade un toque de estilo y personalización a tu setup, mientras que las 87 teclas, incluyendo teclas de acceso rápido, te brindan un control total en tus partidas. Olvídate de los errores de pulsación gracias a las teclas anti-ghost y juega con confianza sabiendo que tu teclado es resistente a salpicaduras. Conéctalo fácilmente a tu PC mediante su interfaz USB y disfruta de la calidad y rendimiento que solo Redragon puede ofrecerte. Nota: Este teclado no incluye teclado numérico ni reposa muñeca.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_797419-MLU70065159531_062023-O.webp",
+      "name": "Teclado Logitech Pro Mechanical Ed Lol2 Rgb Lightsync 920-010533",
+      "price": "$850.75",
+      "categorie": "Teclados",
+      "description": "TECLADO LOGITECH PRO MECHANICAL ED LOL2 RGB LIGHTSYNC 920-010533\n\nREQUISITOS DEL SISTEMA\n\nPuerto USB\n\nWindows® 7 o posteriores, macOS 10.11 o posteriores\n\nAcceso a Internet para descargar el software Logitech G HUB\n\nESPECIFICACIONES TÉCNICAS\n\nInterruptores GX Brown táctiles:\n\nDistancia de actuación: 2,0 mm\n\nFuerza de actuación: 50 g\n\nRecorrido total: 3,7 mm\n\nOTRAS FUNCIONES\n\nDiseño sin teclado numérico inspirado en los profesionales\n\nInterruptores mecánicos GX Brown táctiles\n\nIluminación RGB LIGHTSYNC\n\nPerfil de iluminación integrado\n\nCable extraíble de 1,8 m\n\n12 teclas F programables\n\nVelocidad de respuesta de 1 ms\n\nDIMENSIONES\n\nAltura: 34 mm\n\nAnchura: 361 mm\n\nProfundidad: 153 mm",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_626310-MLA50723459765_072022-O.webp",
+      "name": "Teclado gamer bluetooth Redragon Horus K618 QWERTY Redragon Low profile",
+      "price": "$37.999",
+      "categorie": "Teclados",
+      "description": "Disfrutá de tus partidas en otro nivel con Redragon, marca reconocida que se especializa en brindar la mejor experiencia de juego al público gamer desde hace más de 20 años. Sus teclados se adaptan a todo tipo de jugadores y esto los convierten en un fiel reflejo de la alta gama y calidad que la compañía ofrece.\n\nDistinción a todo color\n\nSu retroiluminación le da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados.\n\nTecnología antighosting\n\n     Este dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo."
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_935185-MLA46504064329_062021-O.webp",
+      "name": "Teclado gamer Redragon Yama K550 QWERTY Outemu Purple español",
+      "price": "$37.429",
+      "categorie": "Teclados",
+      "description": "Disfrutá de tus partidas en otro nivel con Redragon, marca reconocida que se especializa en brindar la mejor experiencia de juego al público gamer desde hace más de 20 años. Sus teclados se adaptan a todo tipo de jugadores y esto los convierten en un fiel reflejo de la alta gama y calidad que la compañía ofrece.\n\nDistinción a todo color\n\nSu retroiluminación le da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados.\n\nTecnología antighosting\n\nEste dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_817554-MLA46915683125_072021-O.webp",
+      "name": "Teclado Mecanico Gamer Evga Z20 Optico Rgb Megasoft",
+      "price": "$58.839",
+      "categorie": "Teclados",
+      "description": "Este teclado Evga de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.\n\nDistinción a todo color\n\nSu retroiluminación le da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados.\n\nMayor durabilidad\n\nDiseñado con tecnología optomecánica, su ciclo de vida es más extendido que otros dispositivos estándar. A diferencia de estos, los interruptores opto-mecánicos tienen una media de 100 millones de pulsaciones contra 70 millones de sus predecesores. ¡Preparate para tenerlo por muchos años!",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_735145-MLA48131216536_112021-O.webp",
+      "name": "Monitor gamer Samsung F24T35 led 24 azul y gris oscuro 100V/240V",
+      "price": "$86.999",
+      "categorie": "Monitores",
+      "description": "Samsung está fielmente comprometida en brindar productos de calidad y que contribuyan a crear un mejor futuro para las personas. Como empresa líder en la industria tecnológica uno de sus objetivos principales es desarrollar avanzadas e innovadoras soluciones. Es por ello que con este monitor tendrás y disfrutarás de una gran experiencia visual en todo momento.\n\nUn monitor a tu medida\n\nCon tu pantalla LED no solo ahorrás energía, ya que su consumo es bajo, sino que vas a ver colores nítidos y definidos en tus películas o series favoritas.\n\nUna experiencia visual de calidad\n\nEste monitor de 24 te va a resultar cómodo para estudiar, trabajar o ver una película en tus tiempos de ocio. Asimismo, su resolución de 1920 x 1080 te permite disfrutar de momentos únicos gracias a una imagen de alta fidelidad. Su tiempo de respuesta de 5 ms lo hace ideal para gamers y cinéfilos porque es capaz de mostrar imágenes en movimiento sin halos o bordes borrosos.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_978463-MLA52219702416_102022-O.webp",
+      "name": "Monitor gamer curvo Samsung Odyssey G5 S32AG55 LCD 32 negro 100V/240V",
+      "price": "$226.999",
+      "categorie": "Monitores",
+      "description": "Samsung está fielmente comprometida en brindar productos de calidad y que contribuyan a crear un mejor futuro para las personas. Como empresa líder en la industria tecnológica uno de sus objetivos principales es desarrollar avanzadas e innovadoras soluciones. Es por ello que con este monitor tendrás y disfrutarás de una gran experiencia visual en todo momento.\n\nUn monitor a tu medida\n\nGracias a su pantalla LCD vas a obtener gráficas con gran nitidez, colores vivos y atractivos.\n\nUna experiencia visual de calidad\n\nEste monitor de 32 te va a resultar cómodo para estudiar, trabajar o ver una película en tus tiempos de ocio. Asimismo, su resolución de 2560 x 1440 te permite disfrutar de momentos únicos gracias a una imagen de alta fidelidad. Su tiempo de respuesta de un milisegundo lo hace ideal para gamers y cinéfilos porque es capaz de mostrar imágenes en movimiento sin halos o bordes borrosos.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_762778-MLA53040230353_122022-O.webp",
+      "name": "Monitor Gamer 24 Led Samsung G50 Full Hd Curvo 144hz 4ms",
+      "price": "$104.500",
+      "categorie": "Monitores",
+      "description": "Monitor curvo para juegos de 24 con frecuencia de actualización de 144 Hz\n\nVelocidad impresionante, inmersión profunda\n\nLíder en el mundo curvo\n\nLíder en monitores curvos. Samsung ha liderado el mercado de monitores curvos desde 2015 , cuando fue el primero en presentar al mundo estas innovadoras pantallas. Con tecnología líder en el sector en una línea de productos completa, los monitores curvos de Samsung son, consistentemente, el número uno en lo que respecta a la participación en el mercado y la elección de los consumidores.\n\nSumérgete en el mundo curvo\n\nLa curva del ganador. Sumérgete por completo en cada juego con una pantalla curva 1800R perfectamente redondeada. El enfoque nítido en la pantalla te ayudará a concentrarte mejor para obtener más victorias. Juega durante más tiempo con menor fatiga ocular.\n\nContenido visual fluido y rápido\n\nExperimentarás escenas de acción fluidas y claras en todo momento. La frecuencia de actualización de hasta 144 Hz te permite tener el control, incluso en los juegos más exigentes. Descubre al enemigo al instante y nota los pequeños cambios cruciales en cada escena. Además, la frecuencia se puede cambiar fácilmente a 60 Hz, 100 Hz o 120 Hz."
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_736233-MLA53163553507_012023-O.webp",
+      "name": "Monitor Gamer Aoc 24g2z 23.8",
+      "price": "$154.999",
+      "categorie": "Monitores",
+      "description": "Con la tecnología AdaptIveSync reconocida universalmente como solución antidesgarro, combinada con su frecuencia de actualización suave de 240 Hz y un tiempo de respuesta de 0,5 ms, 24G2Z ofrece un estándar profesional de eSports para juegos. La pantalla del panel IPS de 23,8” está equipada con el modo HDR para complementar la reconocida gama DCI-P3 del 86 % y ofrece imágenes vívidas con una claridad mejorada. Su compatibilidad con HDMI y DisplayPort lo convierten en una opción ideal para los jugadores que buscan múltiples opciones de conectividad con transmisiones de datos visuales y de audio óptimas.",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    },
+    {
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_699498-MLA44770574696_022021-O.webp",
+      "name": "Asus VA24E VA24EHE 23.8 - Negro - 100V/240V",
+      "price": "$124.529",
+      "categorie": "Monitores",
+      "description": "Sumérgete en una experiencia de juego inigualable con el Monitor gamer Asus VA24EHE de 23.8 pulgadas. Con una resolución Full HD de 1920x1080 píxeles y una relación de aspecto de 16:9, disfrutarás de imágenes nítidas y colores vibrantes en cada partida. Gracias a su tecnología FreeSync y Adaptive-Sync, este monitor ofrece una frecuencia de actualización de 75 Hz y un tiempo de respuesta GTG de 5 ms, lo que se traduce en una jugabilidad fluida y sin interrupciones. Además, su pantalla LED antirreflejo y los amplios ángulos de visión horizontal y vertical de 178° te permitirán disfrutar de tus juegos favoritos desde cualquier posición. El monitor cuenta con conexiones HDMI 1.4, DVI-D y VGA, lo que facilita la conexión a diferentes dispositivos. Su diseño reclinable y la compatibilidad con montaje VESA te ofrecen la flexibilidad para ajustar el monitor según tus necesidades y preferencias. Compatible con Windows 10, Windows 8.1 y Windows 7, este monitor gamer Asus VA24EHE en color negro es la opción perfecta para llevar tu experiencia de juego al siguiente nivel..",
+      "id": "0515aaa6-6324-49b9-99a9-ebc168160964"
+    }
+  ]
+}
