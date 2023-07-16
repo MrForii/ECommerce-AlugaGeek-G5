@@ -4,20 +4,20 @@
 // GET
 // ProductList
 const productList = async () => {
-    const data = await fetch('http://localhost:3000/products');
+    const data = await fetch('https://64b461990efb99d86268ff0c.mockapi.io/products');
     return data.json();
 }
 
 // CategoriesList
 const categoriesList = async () => {
-    const data = await fetch('http://localhost:3000/categories');
+    const data = await fetch('https://64b461990efb99d86268ff0c.mockapi.io/categories');
     return data.json();
 }
 
 // UsersList
 
 const usersList = async () => {
-    const data = await fetch('http://localhost:3000/users');
+    const data = await fetch('https://64b465e50efb99d862690358.mockapi.io/users');
     return data.json();
 }
 
@@ -25,7 +25,7 @@ const usersList = async () => {
 
 const loadProduct = async (id) => {
     try {
-      const response = await fetch(`http://localhost:3000/products/${id}`);
+      const response = await fetch(`https://64b461990efb99d86268ff0c.mockapi.io/products/${id}`);
       if (!response.ok) {
         throw new Error("Error al cargar el producto");
       }
@@ -40,7 +40,7 @@ const loadProduct = async (id) => {
 // create product
 
 const createProduct = async (imageUrl, name, price, categorie, description, id) => {
-  return await fetch('http://localhost:3000/products', {
+  return await fetch('https://64b461990efb99d86268ff0c.mockapi.io/products', {
     method : 'POST',
     headers : {
       "Content-type" : "application/json",
@@ -59,7 +59,7 @@ const createProduct = async (imageUrl, name, price, categorie, description, id) 
 // delete product
 
 const deleteProduct = async (id) => {
-  return await fetch(`http://localhost:3000/products/${id}`, {
+  return await fetch(`https://64b461990efb99d86268ff0c.mockapi.io/products/${id}`, {
     method : 'DELETE',
   })
 }
@@ -67,7 +67,7 @@ const deleteProduct = async (id) => {
 // edit product 
 
 const updateProduct = async (id, imageUrl, name, price, categorie, description) => {
-  return await fetch(`http://localhost:3000/products/${id}`, {
+  return await fetch(`https://64b461990efb99d86268ff0c.mockapi.io/products/${id}`, {
     method : 'PUT',
     headers : {
       "Content-type" : "application/json",
